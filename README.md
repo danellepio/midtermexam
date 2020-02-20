@@ -12,8 +12,8 @@ This repository contains the answers to Part 1, 2, 3, and 4.
 ## Part 3 - Version Control using Git and Github
 
 ### Todo's
-- [X] Clone [https://github.com/cbatuic/midtermexam.git](https://github.com/cbatuic/midtermexam.git)
-- [ ] Create Branches
+- [X] Clone [https://github.com//danellepio/Webdev2_MidtermExam.git](https://github.com//danellepio/Webdev2_MidtermExam.git)
+- [X] Create Branches
     ```bash
     > git branch
     master*
@@ -24,9 +24,9 @@ This repository contains the answers to Part 1, 2, 3, and 4.
     expressworks
     hr
     ```
-- [ ] Switch and move your previous scripts to the newly created branches.
-- [ ] Update README.md and document every progress you've made.
-- [ ] Add remote and push to your respective repositories.
+- [X] Switch and move your previous scripts to the newly created branches.
+- [X] Update README.md and document every progress you've made.
+- [X] Add remote and push to your respective repositories.
 
 ## Part 4 - Web Server Programming
 
